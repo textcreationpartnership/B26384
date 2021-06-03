@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegiack essay upon the death of the Reverend Mr. Thomas Gouge who deceased Jan. 8 1699/1700 [i.e. 1700] / by J.M. philo-musus.</title>
+            <author>J. M., philo-musus.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26384</idno><idno type="EEBO-CITATION">14923538</idno>
+  <idno type="VID">206138</idno>
+  <idno type="EEBO-PROQUEST">2240949364</idno>
+  
+            <idno type="STC">Wing M35A</idno>
+            <idno type="OCLC">14923538</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1574:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegiack essay upon the death of the Reverend Mr. Thomas Gouge who deceased Jan. 8 1699/1700 [i.e. 1700] / by J.M. philo-musus.</title>
+                  <author>J. M., philo-musus.</author>
+                  <author>Watts, Isaac, 1674-1748.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Marshall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Has been attributed to Isaac Watts. cf. DNB.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gouge, Thomas, 1665?-1700 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206138:1"/>
+            <pb facs="tcp:206138:1"/>
+            <p>AN ELEGIACK ESSAY UPON THE DEATH Of the Reverend Mr. <hi>Thomas Gouge,</hi> Who Deceased <hi>Jan.</hi> 8. 1699/1700.</p>
+            <p>By <hi>J. M. Philo-Musus.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Iohn Marshall,</hi> at the <hi>Bible</hi> in <hi>Grace-Church-Street.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:206138:2"/>
+            <pb n="3" facs="tcp:206138:2"/>
+            <head>AN ELEGIACK ESSAY UPON THE DEATH Of the Reverend Mr. <hi>THOMAS GOUGE:</hi> Who Deceased <hi>Jan.</hi> 8. 1699/1700.</head>
+            <lg>
+               <l>GO, sorrowful Muse, lamet Great <hi>Gouge</hi>'s Death,</l>
+               <l>Who to our Grief has now resign'd his Breath:</l>
+               <l>Go, mournfully our Loss, his Gain set forth,</l>
+               <l>His Piety, his Learning, and his Worth.</l>
+               <l>Go, and lament distressed <hi>Sion</hi>'s State,</l>
+               <l>Attempt his Excellence to predicate.</l>
+               <pb n="4" facs="tcp:206138:3"/>
+               <l>One in this Work, 'tis true, has been employ'd,</l>
+               <l>But is there nought for me to write beside?</l>
+               <l>Sure that Muse ha'n't said all. Why may not mine</l>
+               <l>Say more? Shall we to One his Praise confine?</l>
+               <l>Why should it not be Sung by All the Nine?</l>
+               <l>Shall but One Muse accompany his Hearse,</l>
+               <l>Singing his Praise in Elegiack Verse?</l>
+               <l>If others then are silent, why may not I</l>
+               <l>Attempt, at least, to write his Elegy?</l>
+               <l>'Tis true, his Worth deserves far greater Praise,</l>
+               <l>Than my poor unaccustom'd Muse can raise:</l>
+               <l>Being so great, that it may seem a Crime,</l>
+               <l>For me t'attempt to put it into Rhyme.</l>
+               <l>But Love to him says, Try. Nay then I will,</l>
+               <l>And let that Love atone my want of Skill.</l>
+               <l>O how uncertain are all things below!</l>
+               <l>Scarce have we got our Mercies, but they go.</l>
+               <l>Those Blessings which Mortals esteem most Rare,</l>
+               <l>They no more pleasing than uncertain are.</l>
+               <l>Yet so't must be, else desir'd Happiness</l>
+               <l>Would dwell with us below; whereas Distress,</l>
+               <l>And Death, the dreaded Progeny of Sin,</l>
+               <l>When Happiness left this World, first enter'd in.</l>
+               <l>How many Faithful Ministers of late</l>
+               <l>Has <hi>Sion</hi> lost? Which Losses do create</l>
+               <l>Dire Fears within her anxious Breast, when she</l>
+               <l>Sees them departing, whom she hop'd might be</l>
+               <l>Her Faithful Leaders in her Pilgrim-State</l>
+               <l>Much longer. But nought now can mitigate</l>
+               <l>The Torrent of her Grief, when after th' Rest</l>
+               <l>Who 're gone before, and are of Heav'n possest,</l>
+               <pb n="5" facs="tcp:206138:3"/>
+               <l>She sees the Rev'rend <hi>Gouge</hi> departing too;</l>
+               <l>This makes her weep, because t'augment her Wo.</l>
+               <l>But why must <hi>Gouge</hi> go now? Could'st thou not spare</l>
+               <l>Him longer here below? (How short-liv'd are</l>
+               <l>Our Mercies! How uncertain!) In his Light</l>
+               <l>We for a while rejoyc'd; but tho' 't was bright,</l>
+               <l>Yet, to our Sorrow, 'twas eclipsed soon,</l>
+               <l>His Sun went down, scarce having past its Noon.</l>
+               <l>Had it not been decreed that all must Die,</l>
+               <l>Sure we had begg'd his Immortality.</l>
+               <l>Not that we envy in the least his Bliss,</l>
+               <l>Nor that we grudge his perfect Happiness:</l>
+               <l>But yet we want him here; send more, we pray,</l>
+               <l>Lest into Night be turn'd our Gospel-Day.</l>
+               <l>Should we but trace from his first happy Breath,</l>
+               <l>To his lamented, and unwelcom Death,</l>
+               <l>Through his whole Life, 'twill plainly then appear,</l>
+               <l>A Glorious Star has left our Hemisphere.</l>
+               <l>In him the Graces of God's Spirit shin'd,</l>
+               <l>Th' Endowments of a truly Noble Mind.</l>
+               <l>How firm his Faith, shewing it self in Love,</l>
+               <l>And in Desire, fixt on the Things above?</l>
+               <l>How noted for his Early Piety,</l>
+               <l>Serving the Lord, while young most zealously?</l>
+               <l>How sweet his Nat'ral Temper, not inclin'd</l>
+               <l>Wrongs or past Injuries to call to Mind?</l>
+               <l>How Closely with his God, and how Uprightly</l>
+               <l>Did he walk here, and how Exemplary?</l>
+               <l>And as he was adorn'd with Grace, the Heart's?</l>
+               <l>Best Ornament, so with the greatest Parts,</l>
+               <l>And no less Learn'd, as well in Tongues as Arts,</l>
+               <pb n="6" facs="tcp:206138:4"/>
+               <l>Thus a Great Christian, greatly Learned too,</l>
+               <l>How was he fit, his Master's Work to do?</l>
+               <l>How faithfully was he engaged therein;</l>
+               <l>Endeav'ring Subjects to his Lord to bring?</l>
+               <l>How sound his Judgment? How from Errors free?</l>
+               <l>And able to oppose all Heresie?</l>
+               <l>Tho' weak by Nature, by Sickness weaker made,</l>
+               <l>So that while he was young, his Strength decay'd.</l>
+               <l>Yet how did he always his Work pursue</l>
+               <l>With Eagerness, and great Affection too?</l>
+               <l>How stedfast was his Hope? His Piety</l>
+               <l>No less conspicuous. How did he Die?</l>
+               <l>Not the least questioning his Interest</l>
+               <l>In those Blest Mansions, where he's now at rest.</l>
+               <l>So Great a Man was he, such Happiness</l>
+               <l>Had his late Church, Great sure beyond express.</l>
+               <l>Had they but known, and suitably inprov'd</l>
+               <l>Their Mercies, while they were not yet remov'd.</l>
+               <l>And his Blest Soul past without least annoy,</l>
+               <l>Into the Regions of Eternal Joy,</l>
+               <l>Where Everlasting Praises it employ.</l>
+               <l>Then let's not Weep for him, knowing his Gains</l>
+               <l>Abundantly reward him for his Pains:</l>
+               <l>But rather for our selves, because o' th' State</l>
+               <l>Of Christ's poor Church, the Object of the Hate</l>
+               <l>Of Wicked Men: But this great Comfort gives,</l>
+               <l>That tho' Men Die, yet JESUS ever Lives.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="epitaph">
+            <pb n="7" facs="tcp:206138:4"/>
+            <head>EPITAPH.</head>
+            <lg>
+               <l>THE Soul of Rev'rend <hi>Gouge</hi> being now above,</l>
+               <l>Here lyes his Dust, waiting till by the Power</l>
+               <l>Of God it rais'd shall be, and for his Love</l>
+               <l>Made fully Blest; and that for evermore.</l>
+               <l>A glorious Light he was whilst here below,</l>
+               <l>Shining most brightly; 'twas his main Delight,</l>
+            </lg>
+            <lg>
+               <l>GLORY to <hi>GOD</hi> to bring, his Will to do:</l>
+               <l>Of whose Blest Count'nance he enjoys the Light.</l>
+               <l>Under this Stone his Body rests till th' Day</l>
+               <l>Gladly when it shall meet it's Soul, and they</l>
+               <l>Ever enjoy that Bliss, where Grief is chac'd away.</l>
+            </lg>
+         </div>
+         <div type="publishers_advertisement">
+            <pb n="8" facs="tcp:206138:5"/>
+            <head>A Catalogue of Books Sold by <hi>John Marshall,</hi> at the <hi>Bible</hi> in <hi>Grace-Church-Street.</hi>
+            </head>
+            <list>
+               <item>GOOD Company; or, Sudden Thoughts; or, A Collection of Three Hundred Di<g ref="char:EOLhyphen"/>vine Sentences; being a Guide to a Holy Life.</item>
+               <item>The Government of the Thoughts, Prefa<g ref="char:EOLhyphen"/>tory to the Government of the Tongue, by the Author of <hi>The Whole Duty of Man.</hi>
+               </item>
+               <item>An Elegiack Essay on the Pious Memory of Mr. <hi>Matthew Mead.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>The Heavenly Foot-Man; or, A Description of the Man that gets to Heaven. By <hi>John Bunyan,</hi> Author of <hi>The Pilgrim's Progress.</hi>
+               </item>
+               <item>A Declaration against Antinomian Errours. The Second Edition.</item>
+               <item>A Choice Drop of Honey from the Rock CHRIST.</item>
+               <item>The Traveller's Song. In Verse.</item>
+               <item>
+                  <hi>Rich</hi>'s Short-Hand. A speedy Way to attain the Art of Short-Writing. Where you may be supplied with the Testament and Psalms in Short-Hand.</item>
+               <item>The Ten Commandments in Verse, from a large Copper-Plate. Where you may be sup<g ref="char:EOLhyphen"/>plied with variety of Pictures, of most sorts.</item>
+               <item>Mr. <hi>Gouge</hi>'s Funeral Sermon. By <hi>J. Nesbitt.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206138:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
